@@ -1,0 +1,10 @@
+{
+  "description": "A playful interactive math quiz helps children ages 4–6 practice counting and simple equations with colorful visuals, encouraging feedback, and explanations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
